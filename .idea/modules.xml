@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MeiZi.iml" filepath="$PROJECT_DIR$/MeiZi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MeiZi.iml" filepath="$PROJECT_DIR$/.idea/modules/MeiZi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/heimagril/heimagril.iml" filepath="$PROJECT_DIR$/.idea/modules/heimagril/heimagril.iml" />
     </modules>
   </component>
 </project>

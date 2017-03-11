@@ -34,7 +34,7 @@ import okhttp3.Response;
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "aaa";
-    private List<ResultBean.ResultsBean> mList = new ArrayList<ResultBean.ResultsBean>();
+    private List<ResultBean.ResultsBean> mList = new ArrayList<>();
     private Gson mGson = new Gson();
     private boolean isLoading;
 //    @BindView(R.id.listview)
